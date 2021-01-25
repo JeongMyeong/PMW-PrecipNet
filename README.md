@@ -1,7 +1,6 @@
+# PrecipNet
 
 `Precipitation retrieval based on ConvolutionalNeural Networks from passive microwave observations`
-
-# PrecipNet
 
 PMW-PrecipNet was trained to retrieve instantaneous precipitation rate using three years products between 2016 and 2018 from Global Precipitation Measurement (GPM) core satellite, where the GPM Dual Precipitation Radar (DPR) rainfall rate is used as a reference. 
 
